@@ -5,15 +5,10 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Davi Emanuel de Sá Torres
+- Matricula: 927565
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
-
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
-
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
-
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![Console](public/console.png)
+![Catálogo](public/catalogo.png)
